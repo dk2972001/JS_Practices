@@ -1,2 +1,2 @@
-city:ooty
-state:Tamilnadu
+city:munnar
+state:Kerala
