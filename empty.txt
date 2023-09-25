@@ -1,2 +1,2 @@
-location:munnar
+city:munnar
 state:Kerala
