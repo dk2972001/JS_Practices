@@ -1,0 +1,2 @@
+city:ooty
+state:Tamilnadu
